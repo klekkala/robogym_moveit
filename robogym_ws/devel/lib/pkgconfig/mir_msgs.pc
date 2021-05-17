@@ -1,0 +1,1 @@
+/home/zhhm/robogym_ws/devel/.private/mir_msgs/lib/pkgconfig/mir_msgs.pc

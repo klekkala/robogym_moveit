@@ -1,0 +1,1 @@
+/home/zhhm/robogym_ws/devel/.private/ur_robot_server/lib/pkgconfig/ur_robot_server.pc

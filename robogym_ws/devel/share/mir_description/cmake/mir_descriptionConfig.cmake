@@ -1,0 +1,1 @@
+/home/zhhm/robogym_ws/devel/.private/mir_description/share/mir_description/cmake/mir_descriptionConfig.cmake

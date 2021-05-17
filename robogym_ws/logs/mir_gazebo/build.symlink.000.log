@@ -1,0 +1,3 @@
+Symlinking /home/zhhm/robogym_ws/devel/share/mir_gazebo/cmake/mir_gazeboConfig.cmake
+Symlinking /home/zhhm/robogym_ws/devel/share/mir_gazebo/cmake/mir_gazeboConfig-version.cmake
+Symlinking /home/zhhm/robogym_ws/devel/lib/pkgconfig/mir_gazebo.pc

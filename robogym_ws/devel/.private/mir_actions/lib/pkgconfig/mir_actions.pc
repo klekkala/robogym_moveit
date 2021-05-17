@@ -1,0 +1,8 @@
+prefix=/home/zhhm/robogym_ws/devel/.private/mir_actions
+
+Name: mir_actions
+Description: Description of mir_actions
+Version: 1.0.4
+Cflags: -I/home/zhhm/robogym_ws/devel/.private/mir_actions/include
+Libs: -L${prefix}/lib 
+Requires: actionlib geometry_msgs message_runtime nav_msgs

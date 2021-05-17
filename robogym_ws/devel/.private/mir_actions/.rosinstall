@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/zhhm/robogym_ws/devel/.private/mir_actions/setup.sh

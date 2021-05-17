@@ -1,0 +1,8 @@
+prefix=/home/zhhm/robogym_ws/devel/.private/mir_navigation
+
+Name: mir_navigation
+Description: Description of mir_navigation
+Version: 1.0.4
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

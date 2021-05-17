@@ -1,0 +1,255 @@
+[35m[1mScanning dependencies of target planning_context_loader_lin[0m
+[  0%] [32mBuilding CXX object CMakeFiles/planning_context_loader_lin.dir/src/planning_context_loader_lin.cpp.o[0m
+[  2%] [32mBuilding CXX object CMakeFiles/planning_context_loader_lin.dir/src/planning_context_loader.cpp.o[0m
+[  4%] [32mBuilding CXX object CMakeFiles/planning_context_loader_lin.dir/src/trajectory_functions.cpp.o[0m
+[  6%] [32mBuilding CXX object CMakeFiles/planning_context_loader_lin.dir/src/trajectory_generator.cpp.o[0m
+[  6%] [32mBuilding CXX object CMakeFiles/planning_context_loader_lin.dir/src/trajectory_generator_lin.cpp.o[0m
+[  8%] [32mBuilding CXX object CMakeFiles/planning_context_loader_lin.dir/src/velocity_profile_atrap.cpp.o[0m
+[ 10%] [32m[1mLinking CXX shared library /home/zhhm/robogym_ws/devel/.private/pilz_industrial_motion_planner/lib/libplanning_context_loader_lin.so[0m
+[ 10%] Built target planning_context_loader_lin
+[35m[1mScanning dependencies of target planning_context_loader_circ[0m
+[ 12%] [32mBuilding CXX object CMakeFiles/planning_context_loader_circ.dir/src/planning_context_loader_circ.cpp.o[0m
+[ 14%] [32mBuilding CXX object CMakeFiles/planning_context_loader_circ.dir/src/planning_context_loader.cpp.o[0m
+[ 17%] [32mBuilding CXX object CMakeFiles/planning_context_loader_circ.dir/src/trajectory_functions.cpp.o[0m
+[ 17%] [32mBuilding CXX object CMakeFiles/planning_context_loader_circ.dir/src/trajectory_generator.cpp.o[0m
+[ 19%] [32mBuilding CXX object CMakeFiles/planning_context_loader_circ.dir/src/trajectory_generator_circ.cpp.o[0m
+[ 21%] [32mBuilding CXX object CMakeFiles/planning_context_loader_circ.dir/src/path_circle_generator.cpp.o[0m
+[ 23%] [32m[1mLinking CXX shared library /home/zhhm/robogym_ws/devel/.private/pilz_industrial_motion_planner/lib/libplanning_context_loader_circ.so[0m
+[ 23%] Built target planning_context_loader_circ
+[35m[1mScanning dependencies of target pilz_industrial_motion_planner_lib[0m
+[ 25%] [32mBuilding CXX object CMakeFiles/pilz_industrial_motion_planner_lib.dir/src/pilz_industrial_motion_planner.cpp.o[0m
+[ 27%] [32mBuilding CXX object CMakeFiles/pilz_industrial_motion_planner_lib.dir/src/planning_context_loader.cpp.o[0m
+[ 27%] [32mBuilding CXX object CMakeFiles/pilz_industrial_motion_planner_lib.dir/src/joint_limits_validator.cpp.o[0m
+[ 29%] [32mBuilding CXX object CMakeFiles/pilz_industrial_motion_planner_lib.dir/src/joint_limits_aggregator.cpp.o[0m
+[ 31%] [32mBuilding CXX object CMakeFiles/pilz_industrial_motion_planner_lib.dir/src/joint_limits_container.cpp.o[0m
+[ 34%] [32mBuilding CXX object CMakeFiles/pilz_industrial_motion_planner_lib.dir/src/cartesian_limits_aggregator.cpp.o[0m
+[ 34%] [32mBuilding CXX object CMakeFiles/pilz_industrial_motion_planner_lib.dir/src/cartesian_limit.cpp.o[0m
+[ 36%] [32mBuilding CXX object CMakeFiles/pilz_industrial_motion_planner_lib.dir/src/limits_container.cpp.o[0m
+[ 38%] [32mBuilding CXX object CMakeFiles/pilz_industrial_motion_planner_lib.dir/src/trajectory_functions.cpp.o[0m
+[ 40%] [32mBuilding CXX object CMakeFiles/pilz_industrial_motion_planner_lib.dir/src/plan_components_builder.cpp.o[0m
+[ 40%] [32m[1mLinking CXX shared library /home/zhhm/robogym_ws/devel/.private/pilz_industrial_motion_planner/lib/libpilz_industrial_motion_planner_lib.so[0m
+[ 40%] Built target pilz_industrial_motion_planner_lib
+[35m[1mScanning dependencies of target pilz_industrial_motion_planner[0m
+[ 42%] [32mBuilding CXX object CMakeFiles/pilz_industrial_motion_planner.dir/src/pilz_industrial_motion_planner.cpp.o[0m
+[ 44%] [32mBuilding CXX object CMakeFiles/pilz_industrial_motion_planner.dir/src/planning_context_loader.cpp.o[0m
+[ 44%] [32mBuilding CXX object CMakeFiles/pilz_industrial_motion_planner.dir/src/joint_limits_aggregator.cpp.o[0m
+[ 46%] [32mBuilding CXX object CMakeFiles/pilz_industrial_motion_planner.dir/src/joint_limits_container.cpp.o[0m
+[ 48%] [32mBuilding CXX object CMakeFiles/pilz_industrial_motion_planner.dir/src/limits_container.cpp.o[0m
+[ 51%] [32mBuilding CXX object CMakeFiles/pilz_industrial_motion_planner.dir/src/cartesian_limit.cpp.o[0m
+[ 51%] [32mBuilding CXX object CMakeFiles/pilz_industrial_motion_planner.dir/src/cartesian_limits_aggregator.cpp.o[0m
+[ 53%] [32m[1mLinking CXX shared library /home/zhhm/robogym_ws/devel/.private/pilz_industrial_motion_planner/lib/libpilz_industrial_motion_planner.so[0m
+[ 53%] Built target pilz_industrial_motion_planner
+[35m[1mScanning dependencies of target planning_context_loader_ptp[0m
+[ 55%] [32mBuilding CXX object CMakeFiles/planning_context_loader_ptp.dir/src/planning_context_loader_ptp.cpp.o[0m
+[ 55%] [32mBuilding CXX object CMakeFiles/planning_context_loader_ptp.dir/src/planning_context_loader.cpp.o[0m
+[ 57%] [32mBuilding CXX object CMakeFiles/planning_context_loader_ptp.dir/src/trajectory_functions.cpp.o[0m
+[ 59%] [32mBuilding CXX object CMakeFiles/planning_context_loader_ptp.dir/src/trajectory_generator.cpp.o[0m
+[ 61%] [32mBuilding CXX object CMakeFiles/planning_context_loader_ptp.dir/src/trajectory_generator_ptp.cpp.o[0m
+[ 61%] [32mBuilding CXX object CMakeFiles/planning_context_loader_ptp.dir/src/velocity_profile_atrap.cpp.o[0m
+[ 63%] [32mBuilding CXX object CMakeFiles/planning_context_loader_ptp.dir/src/joint_limits_container.cpp.o[0m
+[ 65%] [32m[1mLinking CXX shared library /home/zhhm/robogym_ws/devel/.private/pilz_industrial_motion_planner/lib/libplanning_context_loader_ptp.so[0m
+[ 65%] Built target planning_context_loader_ptp
+[35m[1mScanning dependencies of target moveit_msgs_generate_messages_cpp[0m
+[ 65%] Built target moveit_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_nodejs[0m
+[ 65%] Built target tf2_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_eus[0m
+[ 65%] Built target tf2_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target visualization_msgs_generate_messages_cpp[0m
+[ 65%] Built target visualization_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_cpp[0m
+[ 65%] Built target tf2_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target actionlib_generate_messages_lisp[0m
+[ 65%] Built target actionlib_generate_messages_lisp
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_cpp[0m
+[ 65%] Built target geometry_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target octomap_msgs_generate_messages_py[0m
+[ 65%] Built target octomap_msgs_generate_messages_py
+[35m[1mScanning dependencies of target tf_generate_messages_nodejs[0m
+[ 65%] Built target tf_generate_messages_nodejs
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_py[0m
+[ 65%] Built target tf2_msgs_generate_messages_py
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_lisp[0m
+[ 65%] Built target tf2_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target octomap_msgs_generate_messages_nodejs[0m
+[ 65%] Built target octomap_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target object_recognition_msgs_generate_messages_py[0m
+[ 65%] Built target object_recognition_msgs_generate_messages_py
+[35m[1mScanning dependencies of target std_srvs_generate_messages_nodejs[0m
+[ 65%] Built target std_srvs_generate_messages_nodejs
+[35m[1mScanning dependencies of target roscpp_generate_messages_lisp[0m
+[ 65%] Built target roscpp_generate_messages_lisp
+[35m[1mScanning dependencies of target std_srvs_generate_messages_eus[0m
+[ 65%] Built target std_srvs_generate_messages_eus
+[35m[1mScanning dependencies of target object_recognition_msgs_generate_messages_cpp[0m
+[ 65%] Built target object_recognition_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_eus[0m
+[ 65%] Built target rosgraph_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target trajectory_msgs_generate_messages_nodejs[0m
+[ 65%] Built target trajectory_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target trajectory_msgs_generate_messages_lisp[0m
+[ 65%] Built target trajectory_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target trajectory_msgs_generate_messages_cpp[0m
+[ 65%] Built target trajectory_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target shape_msgs_generate_messages_py[0m
+[ 65%] Built target shape_msgs_generate_messages_py
+[35m[1mScanning dependencies of target object_recognition_msgs_generate_messages_lisp[0m
+[ 65%] Built target object_recognition_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_eus[0m
+[ 65%] Built target sensor_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_cpp[0m
+[ 65%] Built target sensor_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_py[0m
+[ 65%] Built target actionlib_msgs_generate_messages_py
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_lisp[0m
+[ 65%] Built target actionlib_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_eus[0m
+[ 65%] Built target actionlib_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target roscpp_generate_messages_eus[0m
+[ 65%] Built target roscpp_generate_messages_eus
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_cpp[0m
+[ 65%] Built target actionlib_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target tf_generate_messages_eus[0m
+[ 65%] Built target tf_generate_messages_eus
+[35m[1mScanning dependencies of target actionlib_generate_messages_eus[0m
+[ 65%] Built target actionlib_generate_messages_eus
+[35m[1mScanning dependencies of target moveit_msgs_generate_messages_py[0m
+[ 65%] Built target moveit_msgs_generate_messages_py
+[35m[1mScanning dependencies of target moveit_msgs_generate_messages_lisp[0m
+[ 65%] Built target moveit_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target moveit_msgs_generate_messages_eus[0m
+[ 65%] Built target moveit_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_nodejs[0m
+[ 65%] Built target rosgraph_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target trajectory_msgs_generate_messages_py[0m
+[ 65%] Built target trajectory_msgs_generate_messages_py
+[35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
+[ 65%] Built target std_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_py[0m
+[ 65%] Built target rosgraph_msgs_generate_messages_py
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_lisp[0m
+[ 65%] Built target rosgraph_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target dynamic_reconfigure_generate_messages_cpp[0m
+[ 65%] Built target dynamic_reconfigure_generate_messages_cpp
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_cpp[0m
+[ 65%] Built target rosgraph_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target trajectory_msgs_generate_messages_eus[0m
+[ 65%] Built target trajectory_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target roscpp_generate_messages_py[0m
+[ 65%] Built target roscpp_generate_messages_py
+[35m[1mScanning dependencies of target moveit_ros_planning_gencfg[0m
+[ 65%] Built target moveit_ros_planning_gencfg
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_eus[0m
+[ 65%] Built target geometry_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target roscpp_generate_messages_nodejs[0m
+[ 65%] Built target roscpp_generate_messages_nodejs
+[35m[1mScanning dependencies of target octomap_msgs_generate_messages_cpp[0m
+[ 65%] Built target octomap_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
+[ 65%] Built target std_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target std_msgs_generate_messages_nodejs[0m
+[ 65%] Built target std_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target actionlib_generate_messages_cpp[0m
+[ 65%] Built target actionlib_generate_messages_cpp
+[35m[1mScanning dependencies of target octomap_msgs_generate_messages_eus[0m
+[ 65%] Built target octomap_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target object_recognition_msgs_generate_messages_eus[0m
+[ 65%] Built target object_recognition_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_py[0m
+[ 65%] Built target sensor_msgs_generate_messages_py
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_nodejs[0m
+[ 65%] Built target sensor_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target moveit_msgs_generate_messages_nodejs[0m
+[ 65%] Built target moveit_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target roscpp_generate_messages_cpp[0m
+[ 65%] Built target roscpp_generate_messages_cpp
+[35m[1mScanning dependencies of target shape_msgs_generate_messages_eus[0m
+[ 65%] Built target shape_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_nodejs[0m
+[ 65%] Built target actionlib_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target std_srvs_generate_messages_cpp[0m
+[ 65%] Built target std_srvs_generate_messages_cpp
+[35m[1mScanning dependencies of target tf_generate_messages_cpp[0m
+[ 65%] Built target tf_generate_messages_cpp
+[35m[1mScanning dependencies of target dynamic_reconfigure_generate_messages_py[0m
+[ 65%] Built target dynamic_reconfigure_generate_messages_py
+[35m[1mScanning dependencies of target dynamic_reconfigure_generate_messages_eus[0m
+[ 65%] Built target dynamic_reconfigure_generate_messages_eus
+[35m[1mScanning dependencies of target actionlib_generate_messages_py[0m
+[ 65%] Built target actionlib_generate_messages_py
+[35m[1mScanning dependencies of target shape_msgs_generate_messages_nodejs[0m
+[ 65%] Built target shape_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_nodejs[0m
+[ 65%] Built target geometry_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
+[ 65%] Built target std_msgs_generate_messages_py
+[35m[1mScanning dependencies of target dynamic_reconfigure_gencfg[0m
+[ 65%] Built target dynamic_reconfigure_gencfg
+[35m[1mScanning dependencies of target std_msgs_generate_messages_cpp[0m
+[ 65%] Built target std_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target visualization_msgs_generate_messages_nodejs[0m
+[ 65%] Built target visualization_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_lisp[0m
+[ 65%] Built target geometry_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_py[0m
+[ 65%] Built target geometry_msgs_generate_messages_py
+[35m[1mScanning dependencies of target object_recognition_msgs_generate_messages_nodejs[0m
+[ 65%] Built target object_recognition_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target shape_msgs_generate_messages_cpp[0m
+[ 65%] Built target shape_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target visualization_msgs_generate_messages_py[0m
+[ 65%] Built target visualization_msgs_generate_messages_py
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_lisp[0m
+[ 65%] Built target sensor_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target dynamic_reconfigure_generate_messages_nodejs[0m
+[ 65%] Built target dynamic_reconfigure_generate_messages_nodejs
+[35m[1mScanning dependencies of target std_srvs_generate_messages_lisp[0m
+[ 65%] Built target std_srvs_generate_messages_lisp
+[35m[1mScanning dependencies of target std_srvs_generate_messages_py[0m
+[ 65%] Built target std_srvs_generate_messages_py
+[35m[1mScanning dependencies of target moveit_ros_manipulation_gencfg[0m
+[ 65%] Built target moveit_ros_manipulation_gencfg
+[35m[1mScanning dependencies of target octomap_msgs_generate_messages_lisp[0m
+[ 65%] Built target octomap_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target shape_msgs_generate_messages_lisp[0m
+[ 65%] Built target shape_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target tf_generate_messages_py[0m
+[ 65%] Built target tf_generate_messages_py
+[35m[1mScanning dependencies of target tf_generate_messages_lisp[0m
+[ 65%] Built target tf_generate_messages_lisp
+[35m[1mScanning dependencies of target visualization_msgs_generate_messages_lisp[0m
+[ 65%] Built target visualization_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target visualization_msgs_generate_messages_eus[0m
+[ 65%] Built target visualization_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target dynamic_reconfigure_generate_messages_lisp[0m
+[ 65%] Built target dynamic_reconfigure_generate_messages_lisp
+[35m[1mScanning dependencies of target actionlib_generate_messages_nodejs[0m
+[ 65%] Built target actionlib_generate_messages_nodejs
+[35m[1mScanning dependencies of target pilz_industrial_motion_planner_testhelpers[0m
+[ 68%] [32mBuilding CXX object CMakeFiles/pilz_industrial_motion_planner_testhelpers.dir/test/test_utils.cpp.o[0m
+[ 70%] [32mBuilding CXX object CMakeFiles/pilz_industrial_motion_planner_testhelpers.dir/src/trajectory_generator.cpp.o[0m
+[ 72%] [32mBuilding CXX object CMakeFiles/pilz_industrial_motion_planner_testhelpers.dir/src/trajectory_generator_circ.cpp.o[0m
+[ 72%] [32mBuilding CXX object CMakeFiles/pilz_industrial_motion_planner_testhelpers.dir/src/trajectory_generator_lin.cpp.o[0m
+[ 74%] [32mBuilding CXX object CMakeFiles/pilz_industrial_motion_planner_testhelpers.dir/src/trajectory_generator_ptp.cpp.o[0m
+[ 76%] [32mBuilding CXX object CMakeFiles/pilz_industrial_motion_planner_testhelpers.dir/src/path_circle_generator.cpp.o[0m
+[ 78%] [32mBuilding CXX object CMakeFiles/pilz_industrial_motion_planner_testhelpers.dir/src/velocity_profile_atrap.cpp.o[0m
+[ 78%] [32m[1mLinking CXX shared library /home/zhhm/robogym_ws/devel/.private/pilz_industrial_motion_planner/lib/libpilz_industrial_motion_planner_testhelpers.so[0m
+[ 78%] Built target pilz_industrial_motion_planner_testhelpers
+[35m[1mScanning dependencies of target command_list_manager[0m
+[ 78%] [32mBuilding CXX object CMakeFiles/command_list_manager.dir/src/command_list_manager.cpp.o[0m
+[ 80%] [32mBuilding CXX object CMakeFiles/command_list_manager.dir/src/plan_components_builder.cpp.o[0m
+[ 82%] [32m[1mLinking CXX shared library /home/zhhm/robogym_ws/devel/.private/pilz_industrial_motion_planner/lib/libcommand_list_manager.so[0m
+[ 82%] Built target command_list_manager
+[35m[1mScanning dependencies of target sequence_capability[0m
+[ 85%] [32mBuilding CXX object CMakeFiles/sequence_capability.dir/src/move_group_sequence_action.cpp.o[0m
+[ 85%] [32mBuilding CXX object CMakeFiles/sequence_capability.dir/src/move_group_sequence_service.cpp.o[0m
+[ 87%] [32mBuilding CXX object CMakeFiles/sequence_capability.dir/src/plan_components_builder.cpp.o[0m
+[ 89%] [32mBuilding CXX object CMakeFiles/sequence_capability.dir/src/command_list_manager.cpp.o[0m
+[ 91%] [32mBuilding CXX object CMakeFiles/sequence_capability.dir/src/trajectory_blender_transition_window.cpp.o[0m
+[ 91%] [32mBuilding CXX object CMakeFiles/sequence_capability.dir/src/joint_limits_aggregator.cpp.o[0m
+[ 93%] [32mBuilding CXX object CMakeFiles/sequence_capability.dir/src/joint_limits_container.cpp.o[0m
+[ 95%] [32mBuilding CXX object CMakeFiles/sequence_capability.dir/src/limits_container.cpp.o[0m
+[ 97%] [32mBuilding CXX object CMakeFiles/sequence_capability.dir/src/cartesian_limit.cpp.o[0m
+[ 97%] [32mBuilding CXX object CMakeFiles/sequence_capability.dir/src/cartesian_limits_aggregator.cpp.o[0m
+[100%] [32m[1mLinking CXX shared library /home/zhhm/robogym_ws/devel/.private/pilz_industrial_motion_planner/lib/libsequence_capability.so[0m
+[100%] Built target sequence_capability

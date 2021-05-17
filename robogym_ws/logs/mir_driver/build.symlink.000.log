@@ -1,0 +1,4 @@
+Symlinking /home/zhhm/robogym_ws/devel/share/mir_driver/cmake/mir_driverConfig.cmake
+Symlinking /home/zhhm/robogym_ws/devel/share/mir_driver/cmake/mir_driverConfig-version.cmake
+Symlinking /home/zhhm/robogym_ws/devel/lib/pkgconfig/mir_driver.pc
+Symlinking /home/zhhm/robogym_ws/devel/lib/python2.7/dist-packages/mir_driver/__init__.py

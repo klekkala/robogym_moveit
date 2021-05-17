@@ -1,0 +1,3 @@
+Symlinking /home/zhhm/robogym_ws/devel/share/ur_robot_server/cmake/ur_robot_serverConfig.cmake
+Symlinking /home/zhhm/robogym_ws/devel/share/ur_robot_server/cmake/ur_robot_serverConfig-version.cmake
+Symlinking /home/zhhm/robogym_ws/devel/lib/pkgconfig/ur_robot_server.pc

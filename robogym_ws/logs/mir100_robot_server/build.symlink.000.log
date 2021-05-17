@@ -1,0 +1,3 @@
+Symlinking /home/zhhm/robogym_ws/devel/share/mir100_robot_server/cmake/mir100_robot_serverConfig.cmake
+Symlinking /home/zhhm/robogym_ws/devel/share/mir100_robot_server/cmake/mir100_robot_serverConfig-version.cmake
+Symlinking /home/zhhm/robogym_ws/devel/lib/pkgconfig/mir100_robot_server.pc

@@ -1,0 +1,1 @@
+/home/zhhm/robogym_ws/devel/.private/ur5_arm_hand_config/share/ur5_arm_hand_config/cmake/ur5_arm_hand_configConfig.cmake

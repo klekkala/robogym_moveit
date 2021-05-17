@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -O3 -DNDEBUG  -shared -Wl,-soname,libgtest.so -o libgtest.so CMakeFiles/gtest.dir/src/gtest-all.cc.o  -L/home/zhhm/robogym_ws/build/moveit_servo/gtest/googlemock/gtest/src -Wl,-rpath,/home/zhhm/robogym_ws/build/moveit_servo/gtest/googlemock/gtest/src -lpthread 

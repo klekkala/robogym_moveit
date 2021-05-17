@@ -1,0 +1,1 @@
+/home/zhhm/robogym_ws/devel/.private/mir_navigation/share/mir_navigation/cmake/mir_navigationConfig.cmake

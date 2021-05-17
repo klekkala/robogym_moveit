@@ -1,0 +1,8 @@
+prefix=/home/zhhm/robogym_ws/devel/.private/ur_robot_server
+
+Name: ur_robot_server
+Description: Description of ur_robot_server
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

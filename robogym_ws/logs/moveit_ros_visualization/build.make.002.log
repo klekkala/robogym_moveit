@@ -1,0 +1,27 @@
+[  1%] [34m[1mAutomatic MOC and RCC for target moveit_rviz_plugin_render_tools[0m
+[  1%] Built target moveit_rviz_plugin_render_tools_autogen
+[ 18%] Built target moveit_rviz_plugin_render_tools
+[ 20%] [34m[1mAutomatic MOC and RCC for target moveit_robot_state_rviz_plugin_core[0m
+[ 20%] Built target moveit_robot_state_rviz_plugin_core_autogen
+[ 22%] [34m[1mAutomatic MOC and RCC for target moveit_planning_scene_rviz_plugin_core[0m
+[ 22%] Built target moveit_planning_scene_rviz_plugin_core_autogen
+[ 27%] Built target moveit_robot_state_rviz_plugin_core
+[ 33%] Built target moveit_planning_scene_rviz_plugin_core
+[ 35%] [34m[1mAutomatic MOC and RCC for target moveit_robot_state_rviz_plugin[0m
+[ 35%] Built target moveit_robot_state_rviz_plugin_autogen
+[ 37%] [34m[1mAutomatic MOC and RCC for target moveit_planning_scene_rviz_plugin[0m
+[ 37%] Built target moveit_planning_scene_rviz_plugin_autogen
+[ 38%] [34m[1mAutomatic MOC and RCC for target moveit_motion_planning_rviz_plugin_core[0m
+[ 38%] Built target moveit_motion_planning_rviz_plugin_core_autogen
+[ 40%] [34m[1mAutomatic MOC and RCC for target moveit_trajectory_rviz_plugin_core[0m
+[ 40%] Built target moveit_trajectory_rviz_plugin_core_autogen
+[ 46%] Built target moveit_robot_state_rviz_plugin
+[ 51%] Built target moveit_planning_scene_rviz_plugin
+[ 79%] Built target moveit_motion_planning_rviz_plugin_core
+[ 85%] Built target moveit_trajectory_rviz_plugin_core
+[ 87%] [34m[1mAutomatic MOC and RCC for target moveit_motion_planning_rviz_plugin[0m
+[ 87%] Built target moveit_motion_planning_rviz_plugin_autogen
+[ 88%] [34m[1mAutomatic MOC and RCC for target moveit_trajectory_rviz_plugin[0m
+[ 88%] Built target moveit_trajectory_rviz_plugin_autogen
+[ 94%] Built target moveit_motion_planning_rviz_plugin
+[100%] Built target moveit_trajectory_rviz_plugin

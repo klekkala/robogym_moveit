@@ -1,0 +1,8 @@
+prefix=/home/zhhm/robogym_ws/devel/.private/ur5_arm_hand_config
+
+Name: ur5_arm_hand_config
+Description: Description of ur5_arm_hand_config
+Version: 0.3.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

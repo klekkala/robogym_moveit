@@ -1,0 +1,53 @@
+[35m[1mScanning dependencies of target _sdc21x0_generate_messages_check_deps_StampedEncoders[0m
+[  0%] Built target _sdc21x0_generate_messages_check_deps_StampedEncoders
+[35m[1mScanning dependencies of target _sdc21x0_generate_messages_check_deps_MotorCurrents[0m
+[  0%] Built target _sdc21x0_generate_messages_check_deps_MotorCurrents
+[35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
+[  0%] Built target std_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target _sdc21x0_generate_messages_check_deps_Encoders[0m
+[  0%] Built target _sdc21x0_generate_messages_check_deps_Encoders
+[35m[1mScanning dependencies of target _sdc21x0_generate_messages_check_deps_Flags[0m
+[  0%] Built target _sdc21x0_generate_messages_check_deps_Flags
+[35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
+[  0%] Built target std_msgs_generate_messages_py
+[35m[1mScanning dependencies of target std_msgs_generate_messages_nodejs[0m
+[  0%] Built target std_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target std_msgs_generate_messages_cpp[0m
+[  0%] Built target std_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
+[  0%] Built target std_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target sdc21x0_generate_messages_lisp[0m
+[  4%] [34m[1mGenerating Lisp code from sdc21x0/MotorCurrents.msg[0m
+[  8%] [34m[1mGenerating Lisp code from sdc21x0/Encoders.msg[0m
+[ 13%] [34m[1mGenerating Lisp code from sdc21x0/StampedEncoders.msg[0m
+[ 17%] [34m[1mGenerating Lisp code from sdc21x0/Flags.srv[0m
+[ 17%] Built target sdc21x0_generate_messages_lisp
+[35m[1mScanning dependencies of target sdc21x0_generate_messages_py[0m
+[ 21%] [34m[1mGenerating Python from MSG sdc21x0/MotorCurrents[0m
+[ 26%] [34m[1mGenerating Python from MSG sdc21x0/Encoders[0m
+[ 30%] [34m[1mGenerating Python from MSG sdc21x0/StampedEncoders[0m
+[ 34%] [34m[1mGenerating Python code from SRV sdc21x0/Flags[0m
+[ 39%] [34m[1mGenerating Python msg __init__.py for sdc21x0[0m
+[ 43%] [34m[1mGenerating Python srv __init__.py for sdc21x0[0m
+[ 43%] Built target sdc21x0_generate_messages_py
+[35m[1mScanning dependencies of target sdc21x0_generate_messages_nodejs[0m
+[ 47%] [34m[1mGenerating Javascript code from sdc21x0/MotorCurrents.msg[0m
+[ 52%] [34m[1mGenerating Javascript code from sdc21x0/Encoders.msg[0m
+[ 56%] [34m[1mGenerating Javascript code from sdc21x0/StampedEncoders.msg[0m
+[ 60%] [34m[1mGenerating Javascript code from sdc21x0/Flags.srv[0m
+[ 60%] Built target sdc21x0_generate_messages_nodejs
+[35m[1mScanning dependencies of target sdc21x0_generate_messages_cpp[0m
+[ 65%] [34m[1mGenerating C++ code from sdc21x0/MotorCurrents.msg[0m
+[ 69%] [34m[1mGenerating C++ code from sdc21x0/Encoders.msg[0m
+[ 73%] [34m[1mGenerating C++ code from sdc21x0/StampedEncoders.msg[0m
+[ 78%] [34m[1mGenerating C++ code from sdc21x0/Flags.srv[0m
+[ 78%] Built target sdc21x0_generate_messages_cpp
+[35m[1mScanning dependencies of target sdc21x0_generate_messages_eus[0m
+[ 82%] [34m[1mGenerating EusLisp code from sdc21x0/MotorCurrents.msg[0m
+[ 86%] [34m[1mGenerating EusLisp code from sdc21x0/Encoders.msg[0m
+[ 91%] [34m[1mGenerating EusLisp code from sdc21x0/StampedEncoders.msg[0m
+[ 95%] [34m[1mGenerating EusLisp code from sdc21x0/Flags.srv[0m
+[100%] [34m[1mGenerating EusLisp manifest code for sdc21x0[0m
+[100%] Built target sdc21x0_generate_messages_eus
+[35m[1mScanning dependencies of target sdc21x0_generate_messages[0m
+[100%] Built target sdc21x0_generate_messages

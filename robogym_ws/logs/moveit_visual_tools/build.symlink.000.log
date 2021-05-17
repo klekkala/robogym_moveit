@@ -1,0 +1,6 @@
+Symlinking /home/zhhm/robogym_ws/devel/share/moveit_visual_tools/cmake/moveit_visual_toolsConfig-version.cmake
+Symlinking /home/zhhm/robogym_ws/devel/share/moveit_visual_tools/cmake/moveit_visual_toolsConfig.cmake
+Symlinking /home/zhhm/robogym_ws/devel/lib/libmoveit_visual_tools.so.3.6.0
+Symlinking /home/zhhm/robogym_ws/devel/lib/libmoveit_visual_tools.so
+Symlinking /home/zhhm/robogym_ws/devel/lib/pkgconfig/moveit_visual_tools.pc
+Symlinking /home/zhhm/robogym_ws/devel/lib/moveit_visual_tools/moveit_visual_tools_demo

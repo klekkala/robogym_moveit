@@ -1,0 +1,10 @@
+Symlinking /home/zhhm/robogym_ws/devel/share/moveit_servo/cmake/moveit_servoConfig.cmake
+Symlinking /home/zhhm/robogym_ws/devel/share/moveit_servo/cmake/moveit_servoConfig-version.cmake
+Symlinking /home/zhhm/robogym_ws/devel/lib/libmoveit_servo_cpp_api.so
+Symlinking /home/zhhm/robogym_ws/devel/lib/libmoveit_servo_cpp_api.so.1.1.1
+Symlinking /home/zhhm/robogym_ws/devel/lib/libpose_tracking.so
+Symlinking /home/zhhm/robogym_ws/devel/lib/pkgconfig/moveit_servo.pc
+Symlinking /home/zhhm/robogym_ws/devel/lib/moveit_servo/pose_tracking_example
+Symlinking /home/zhhm/robogym_ws/devel/lib/moveit_servo/cpp_interface_example
+Symlinking /home/zhhm/robogym_ws/devel/lib/moveit_servo/servo_server
+Symlinking /home/zhhm/robogym_ws/devel/lib/moveit_servo/spacenav_to_twist

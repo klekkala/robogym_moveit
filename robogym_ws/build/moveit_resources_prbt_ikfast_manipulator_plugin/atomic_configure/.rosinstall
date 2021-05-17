@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/zhhm/robogym_ws/devel/.private/moveit_resources_prbt_ikfast_manipulator_plugin/setup.sh
